@@ -2,6 +2,8 @@
 
 This application is purely a kitchen-sink demo of the Ionic Framework and Angular.
 
+![Install Dependencies, Lint, Build and Test](https://github.com/brookesdjb/IonicActionTest/workflows/Install%20Dependencies,%20Lint,%20Build%20and%20Test/badge.svg)
+
 **There is not an actual Ionic Conference at this time.** This project is just to show off Ionic components in a real-world application. Please go through the steps in [CONTRIBUTING](https://github.com/ionic-team/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) before submitting an issue.
 
 
